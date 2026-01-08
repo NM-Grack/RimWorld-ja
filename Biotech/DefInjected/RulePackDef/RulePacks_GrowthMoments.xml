@@ -167,113 +167,113 @@
   -->
   <GrowthMomentFlavor.rulePack.rulesStrings>
     <li>r_root->[firstSentence][secondSentence]</li>
-    <li>firstSentence(tierSection==4)->[PAWN_pronoun]は優れた[nounGrowth]を示しており,[nounFuture]ずっと[adjGood][nounAttitudeGood]を覚え続けます.</li>
-    <li>firstSentence(tierSection==4)->[PAWN_pronoun]は[situationLearning]ことで,多くの新しい情熱を育みました.</li>
-    <li>firstSentence(tierSection==4)->[situationLearning]ことで,[PAWN_pronoun]は多くの新しい情熱を得ました.</li>
-    <li>firstSentence(tierSection==4)->昨年,[PAWN_pronoun]は優れた[nounGrowth]を示しました.</li>
-    <li>secondSentence(tierSection==4)->[PAWN_nameDef]は[situationLearning]ことと[situationFun]ことに,より多くの時間を費やしたいと考えています.</li>
-    <li>secondSentence(tierSection==4)->[PAWN_nameDef]は[situationLearning]ことを楽しんでいますが,何より[situationFun]ことが大好きです.</li>
-    <li>secondSentence(tierSection==4)->[PAWN_nameDef]は[situationLearning]ことを楽しみ,[situationAspirational]ことを夢見ています.</li>
-    <li>secondSentence(tierSection==4)->[PAWN_nameDef]は[situationLearning]ことで[situationAspirational]ことを望んでいます.</li>
-    <li>firstSentence(tierSection==3)->最近[PAWN_pronoun]は,[nounFuture]に対して[adjGood][nounAttitudeGood]を示しています.</li>
-    <li>firstSentence(tierSection==3)->[PAWN_pronoun]は[nounFuture]に対して[nounAttitudeGood]を示しています.</li>
-    <li>firstSentence(tierSection==3)->[PAWN_pronoun]は[situationLearning]ことなど,多くの新しい活動に関心を持つようになりました.</li>
-    <li>firstSentence(tierSection==3)->[PAWN_pronoun]は優れた[nounGrowth]を示しました.</li>
-    <li>secondSentence(tierSection==3)->[PAWN_nameDef]は[feelingBad]をほとんど感じないことに感謝し,[situationFun]ことにより多くの時間を費やしたいと考えています.</li>
-    <li>secondSentence(tierSection==3)->[PAWN_nameDef]は[situationLearning]ことが好きですが,[situationFun]のが一番幸せです.</li>
-    <li>secondSentence(tierSection==3)->[PAWN_nameDef]は,自分が大きくなったら,[taskWork]ことに時間を費やしたいと考えています.</li>
-    <li>secondSentence(tierSection==3)->[PAWN_nameDef]は何よりも,[situationFun]ことが大好きです.</li>
-    <li>firstSentence(tierSection==2)->[PAWN_pronoun]はいくつかの[nounGrowth]を示しており,[situationLearning]ことを続けたいと考えています.</li>
-    <li>firstSentence(tierSection==2)->[PAWN_pronoun]には,もっと学習したいという[nounAttitudeGood]があります.</li>
-    <li>firstSentence(tierSection==2)->[nounFuture]ずっと,[PAWN_pronoun]はワクワクし続け,[situationLearning]時間を過ごしたいと考えています.</li>
-    <li>firstSentence(tierSection==2)->[PAWN_pronoun]は[situationLearning]ことで新しい情熱を育みました.</li>
-    <li>secondSentence(tierSection==2)->[PAWN_nameDef]は[situationFun]ことを楽しんでいます.</li>
-    <li>secondSentence(tierSection==2)->[PAWN_nameDef]は[situationFun]ことにもっと時間を費やしたいと考えています.</li>
-    <li>secondSentence(tierSection==2)->[PAWN_nameDef]は[taskWork]ことがつまらないと思っています.</li>
-    <li>secondSentence(tierSection==2)->[PAWN_nameDef]は具体的に,[situationLearning]ことに集中したいと考えています.</li>
-    <li>firstSentence(tierSection==1)->[PAWN_pronoun]は[nounGrowth]がほとんどなく,[nounFuture]への期待も低くなっています.</li>
-    <li>firstSentence(tierSection==1)->[PAWN_pronoun]は[nounFuture]については楽観的ですが,[nounGrowth]がほとんどありません.</li>
-    <li>firstSentence(tierSection==1)->[PAWN_pronoun]は[nounFuture]状況が改善されることを望んでいます.</li>
-    <li>firstSentence(tierSection==1)->[PAWN_pronoun]は最小限の[nounGrowth]があり,[situationLearning]ことはつまらないと不満を漏らしています.</li>
-    <li>secondSentence(tierSection==1)->[PAWN_nameDef]は[situationFun]ことにもっと時間を費やしたいと思っていますが,[situationBad]ことの心配で頭がいっぱいです.</li>
-    <li>secondSentence(tierSection==1)->[PAWN_nameDef]は[situationFun]間,しばしば[feelingBad]を感じています.</li>
-    <li>secondSentence(tierSection==1)->[PAWN_nameDef]は,[situationFun]ことによって,最終的に[situationBad]のではないかという奇妙な恐怖を抱いています.</li>
+    <li>firstSentence(tierSection==4)->[PAWN_pronoun]は優れた[nounGrowth]を見せており,[nounFuture]ずっと,[adjGood][nounAttitudeGood]し続けるでしょう.</li>
+    <li>firstSentence(tierSection==4)->[PAWN_pronoun]は[situationLearning]することで,多くの新しい情熱を育みました.</li>
+    <li>firstSentence(tierSection==4)->[situationLearning]することで,[PAWN_pronoun]は多くの新しい情熱を得ました.</li>
+    <li>firstSentence(tierSection==4)->昨年,[PAWN_pronoun]は優れた[nounGrowth]を見せました.</li>
+    <li>secondSentence(tierSection==4)->[PAWN_nameDef]は,[situationLearning]したり,[situationFun]することに,より多くの時間を費やしたいと考えています.</li>
+    <li>secondSentence(tierSection==4)->[PAWN_nameDef]は[situationLearning]することを楽しんでおり,[situationFun]することが大好きです.</li>
+    <li>secondSentence(tierSection==4)->[PAWN_nameDef]は[situationLearning]することを楽しんでおり,大きくなったら[situationAspirational]と夢見ています.</li>
+    <li>secondSentence(tierSection==4)->[PAWN_nameDef]は[situationLearning]して[situationAspirational]と考えています.</li>
+    <li>firstSentence(tierSection==3)->最近,[PAWN_pronoun]は[nounFuture]に対して[adjGood][nounAttitudeGood]しています.</li>
+    <li>firstSentence(tierSection==3)->[PAWN_pronoun]は[nounFuture]に対して[nounAttitudeGood]しています.</li>
+    <li>firstSentence(tierSection==3)->[PAWN_pronoun]は[situationLearning]することに興味を持ち,それ以外にも新しい何かを沢山やってみたいと考えています.</li>
+    <li>firstSentence(tierSection==3)->[PAWN_pronoun]は優れた[nounGrowth]を見せました.</li>
+    <li>secondSentence(tierSection==3)->[PAWN_nameDef]は[feelingBad]ことがほとんどない生活に感謝しており,もっと沢山[situationFun]したいと考えています.</li>
+    <li>secondSentence(tierSection==3)->[PAWN_nameDef]は[situationLearning]することが好きですが,一番喜びを感じるのは[situationFun]しているときです.</li>
+    <li>secondSentence(tierSection==3)->[PAWN_nameDef]は,自分が大きくなったら,もっと沢山[taskWork]したいと考えています.</li>
+    <li>secondSentence(tierSection==3)->[PAWN_nameDef]は何よりも,[situationFun]するのが大好きです.</li>
+    <li>firstSentence(tierSection==2)->[PAWN_pronoun]はいくらか[nounGrowth]しており,今後も続けて[situationLearning]したいと考えています.</li>
+    <li>firstSentence(tierSection==2)->[PAWN_pronoun]は,学びを得ることに[nounAttitudeGood]しています.</li>
+    <li>firstSentence(tierSection==2)->[PAWN_pronoun]は[nounFuture]に対して期待を寄せており,もっと沢山[situationLearning]する時間が欲しいと考えています.</li>
+    <li>firstSentence(tierSection==2)->[PAWN_pronoun]は[situationLearning]することで新しい情熱を育みました.</li>
+    <li>secondSentence(tierSection==2)->[PAWN_nameDef]は[situationFun]することを楽しんでいます.</li>
+    <li>secondSentence(tierSection==2)->[PAWN_nameDef]はもっと沢山[situationFun]したいと考えています.</li>
+    <li>secondSentence(tierSection==2)->[PAWN_nameDef]は[taskWork]するのがつまらないと思っています.</li>
+    <li>secondSentence(tierSection==2)->具体的に言えば,[PAWN_nameDef]は[situationLearning]することに集中したいと考えています.</li>
+    <li>firstSentence(tierSection==1)->[PAWN_pronoun]はほとんど[nounGrowth]が見られず,[nounFuture]に対してもあまり期待していません.</li>
+    <li>firstSentence(tierSection==1)->[PAWN_pronoun]は[nounFuture]については楽観的な見方をしているものの,ほとんど[nounGrowth]が見られません.</li>
+    <li>firstSentence(tierSection==1)->[PAWN_pronoun]は[nounFuture]のどこかで状況が改善されることを望んでいます.</li>
+    <li>firstSentence(tierSection==1)->[PAWN_pronoun]は最小限の[nounGrowth]を見せていますが,[situationLearning]するのはつまらないと不満を漏らしています.</li>
+    <li>secondSentence(tierSection==1)->[PAWN_nameDef]はもっと沢山[situationFun]したいと思っていますが,[situationBad]ことへの恐怖で頭がいっぱいです.</li>
+    <li>secondSentence(tierSection==1)->[PAWN_nameDef]は[situationFun]するとき,[feelingBad]ことがよくあります.</li>
+    <li>secondSentence(tierSection==1)->[PAWN_nameDef]は,[situationFun]したせいで,最終的に[situationBad]ことになってしまうのではないかという,奇妙な恐怖を抱いています.</li>
     <li>secondSentence(tierSection==1)->[PAWN_nameDef]は[situationBad]悪夢を定期的に見ています.</li>
-    <li>firstSentence(tierSection==0)->[PAWN_pronoun]は[situationLearning]ことをしたいと思うことがよくありますが,そうする機会がめったにありません.</li>
-    <li>firstSentence(tierSection==0)->[PAWN_pronoun]は[nounGrowth]が全くありません.</li>
-    <li>firstSentence(tierSection==0)->[PAWN_pronoun]は新しい情熱を育むことができず,[nounFuture]への[nounAttitudeGood]はほとんどありません.</li>
-    <li>firstSentence(tierSection==0)->[PAWN_pronoun]は学ぶことにほとんど興味を示せず,特に[situationLearning]ことを嫌います.</li>
-    <li>secondSentence(tierSection==0)->[PAWN_nameDef]は[situationFun]ことにしか興味がありません.</li>
-    <li>secondSentence(tierSection==0)->[PAWN_nameDef]は[situationBad]ことへの恐怖によって常に足止めされています.</li>
-    <li>secondSentence(tierSection==0)->[PAWN_nameDef]は,[situationBad]ことで重傷を負うのを恐れて生活しています.</li>
-    <li>secondSentence(tierSection==0)->[PAWN_nameDef]は,[situationFun]ことで,[situationBad]という悪夢を繰り返し見ています.</li>
-    <li>adjGood->大きな</li>
-    <li>adjGood->飽くことを知らない</li>
-    <li>adjGood->情熱的な</li>
-    <li>adjGood->元気な</li>
-    <li>adjGood->本物の</li>
-    <li>adjGood->無限の</li>
-    <li>adjGood->広大な</li>
-    <li>adjGood->賞賛に値する</li>
-    <li>adjGood->果てのない</li>
-    <li>adjGood->純粋な</li>
-    <li>adjGood->印象的な</li>
-    <li>feelingBad->孤独</li>
-    <li>feelingBad->恐怖</li>
-    <li>feelingBad->苦痛</li>
-    <li>feelingBad->酷い病的な気持ち</li>
-    <li>feelingBad->病的な気持ち</li>
-    <li>nounAttitudeGood->熱意</li>
+    <li>firstSentence(tierSection==0)->[PAWN_pronoun]は[situationLearning]する時間が欲しいと思うことがよくありますが,そうする機会がめったにありません.</li>
+    <li>firstSentence(tierSection==0)->[PAWN_pronoun]は全く[nounGrowth]していません.</li>
+    <li>firstSentence(tierSection==0)->[PAWN_pronoun]は新しい情熱を育むことができず,[nounFuture]に対してもほとんど[nounAttitudeGood]していません.</li>
+    <li>firstSentence(tierSection==0)->[PAWN_pronoun]は学ぶことにほとんど興味を示せず,特に[situationLearning]することを嫌っています.</li>
+    <li>secondSentence(tierSection==0)->[PAWN_nameDef]は[situationFun]することにしか興味がありません.</li>
+    <li>secondSentence(tierSection==0)->[PAWN_nameDef]は常に[situationBad]ことに怯えており,何もすることができません.</li>
+    <li>secondSentence(tierSection==0)->[PAWN_nameDef]は,[situationBad]ことで重傷を負うのを恐れながら日々を過ごしています.</li>
+    <li>secondSentence(tierSection==0)->[PAWN_nameDef]は毎日,[situationFun]したせいで[situationBad],という悪夢を繰り返し見ています.</li>
+    <li>adjGood->大きく</li>
+    <li>adjGood->飽きずに</li>
+    <li>adjGood->激しく</li>
+    <li>adjGood->強く</li>
+    <li>adjGood->心の底から</li>
+    <li>adjGood->果てしなく</li>
+    <li>adjGood->限りなく</li>
+    <li>adjGood->見事なほどに</li>
+    <li>adjGood->延々と</li>
+    <li>adjGood->一心に</li>
+    <li>adjGood->印象に残るほど</li>
+    <li>feelingBad->孤独を感じる</li>
+    <li>feelingBad->怖い思いをする</li>
+    <li>feelingBad->怪我をする</li>
+    <li>feelingBad->激しく体調を崩す</li>
+    <li>feelingBad->病気になる</li>
+    <li>nounAttitudeGood->熱中</li>
     <li>nounAttitudeGood->興奮</li>
-    <li>nounAttitudeGood->楽観</li>
-    <li>nounFuture->次の数週間</li>
-    <li>nounFuture->次の数ヶ月間</li>
-    <li>nounFuture->次の一年間</li>
+    <li>nounAttitudeGood->楽観的な見方を</li>
+    <li>nounFuture->この先の数週間</li>
+    <li>nounFuture->この先の数ヶ月間</li>
+    <li>nounFuture->この先の一年間</li>
     <li>nounFuture->この先</li>
-    <li>nounGrowth->個人の成長</li>
-    <li>nounGrowth->自己啓発</li>
-    <li>situationFun->[friendNamePlural]と荒野を探索する</li>
-    <li>situationFun->[Game]を遊ぶ</li>
-    <li>situationFun->友達と[Game]を遊ぶ</li>
-    <li>situationFun->[friendNameSingular]と一緒に遊ぶ</li>
-    <li>situationFun->[friendNameSingular]と一緒におしゃべりする</li>
-    <li>situationFun->[friendNamePlural]について噂話をする</li>
-    <li>situationFun->友達をつくる</li>
-    <li>situationFun->太陽の下に出る</li>
-    <li>situationFun->流星の夜空を見る</li>
-    <li>situationFun->ラジオで[topicLearning]について話す</li>
-    <li>situationFun->来訪者とラジオでおしゃべりする</li>
-    <li>situationFun->[friendNamePlural]の絵を床に描く</li>
-    <li>situationFun->[topicLearning]について空想する</li>
-    <li>situationFun->自然に走る</li>
-    <li>situationFun->[friendNamePlural]と冒険する</li>
-    <li>situationFun->秘宝を見つける</li>
-    <li>situationFun->[enemyNamePlural]の絵を描く</li>
-    <li>situationFun->[friendNameSingular]の絵を描く</li>
-    <li>situationFun->[enemyNamePlural]を倒す[friendNameSingular]についての物語を書く</li>
-    <li>situationFun->[enemyNamePlural]と戦うふりをする</li>
-    <li>situationFun->[enemyNamePlural]についての物語を話す</li>
-    <li>situationLearning->ほかの人の[taskWork]様子を見る</li>
-    <li>situationLearning->[taskWork]ことについて学ぶ</li>
-    <li>situationLearning->[topicLearning]について学ぶ</li>
-    <li>situationLearning->[topicLearning]について勉強する</li>
-    <li>situationLearning->[topicLearning]について読む</li>
-    <li>situationLearning->有意義な仕事をする</li>
-    <li>situationAspirational->世界に変化をもたらす</li>
-    <li>situationAspirational->超裕福になる</li>
-    <li>situationAspirational->世界を救う</li>
-    <li>situationAspirational->他者を助ける</li>
-    <li>situationAspirational->超有名人になる</li>
-    <li>situationAspirational->この星を離れる</li>
+    <li>nounGrowth->成長</li>
+    <li>nounGrowth->進歩</li>
+    <li>situationFun->[friendNamePlural]と荒野を探検</li>
+    <li>situationFun->[Game]を</li>
+    <li>situationFun->友達と[Game]を</li>
+    <li>situationFun->[friendNameSingular]と行動を共に</li>
+    <li>situationFun->[friendNameSingular]と雑談</li>
+    <li>situationFun->[friendNamePlural]についての噂話を</li>
+    <li>situationFun->友達作りを</li>
+    <li>situationFun->日光浴を</li>
+    <li>situationFun->夜空から落ちる隕石を観察</li>
+    <li>situationFun->無線機で[topicLearning]を話題に</li>
+    <li>situationFun->無線機で遠くの人と雑談</li>
+    <li>situationFun->床に[friendNamePlural]の落書きを</li>
+    <li>situationFun->[topicLearning]について空想</li>
+    <li>situationFun->自然の中で運動</li>
+    <li>situationFun->[friendNamePlural]と冒険</li>
+    <li>situationFun->宝探しを</li>
+    <li>situationFun->[enemyNamePlural]の絵を制作</li>
+    <li>situationFun->[friendNameSingular]の絵を制作</li>
+    <li>situationFun->[enemyNamePlural]を倒す[friendNameSingular]の物語を作成</li>
+    <li>situationFun->[enemyNamePlural]との戦いごっこを</li>
+    <li>situationFun->[enemyNamePlural]にまつわる話を</li>
+    <li>situationLearning->ほかの人が[taskWork]する様子を観察</li>
+    <li>situationLearning->[taskWork]する方法について学習</li>
+    <li>situationLearning->[topicLearning]について学習</li>
+    <li>situationLearning->[topicLearning]について勉強</li>
+    <li>situationLearning->[topicLearning]について読書</li>
+    <li>situationLearning->有意義な仕事を</li>
+    <li>situationAspirational->世界に変化をもたらしたい</li>
+    <li>situationAspirational->超裕福になりたい</li>
+    <li>situationAspirational->世界を救いたい</li>
+    <li>situationAspirational->みんなを助けたい</li>
+    <li>situationAspirational->超有名人になりたい</li>
+    <li>situationAspirational->この星を離れたい</li>
     <li>situationBad->[enemyNamePlural]に攻撃される</li>
     <li>situationBad->[enemyNamePlural]に誘拐される</li>
     <li>situationBad->[enemyNameSingular]に狩られる</li>
     <li>situationBad->[enemyNameSingular]に追いかけられる</li>
-    <li>situationBad->有毒ガスを吸い込む</li>
+    <li>situationBad->毒ガスを吸い込む</li>
     <li>situationBad->肺腐敗症になる</li>
     <li>situationBad->ペストになる</li>
     <li>situationBad->食中毒になる</li>
-    <li>situationBad->愛する人が死ぬのを見る</li>
+    <li>situationBad->目の前で愛する人が命を失う</li>
     <li>situationBad->地べたで食事する</li>
     <li>topicLearning->大宇宙</li>
     <li>topicLearning->科学</li>
@@ -286,13 +286,13 @@
     <li>topicLearning->遺伝子改変</li>
     <li>topicLearning->ロケット科学</li>
     <li>topicLearning->鉱石の採掘</li>
-    <li>taskWork->料理を作る</li>
-    <li>taskWork->動物を訓練する</li>
-    <li>taskWork->病人をケアする</li>
-    <li>taskWork->[friendNamePlural]を助ける</li>
-    <li>taskWork->マッファローを狩る</li>
-    <li>taskWork->食べ物を育てる</li>
-    <li>taskWork->衣服を仕立てる</li>
+    <li>taskWork->料理</li>
+    <li>taskWork->動物を訓練</li>
+    <li>taskWork->病人を治療</li>
+    <li>taskWork->[friendNamePlural]の手伝いを</li>
+    <li>taskWork->マッファローを狩猟</li>
+    <li>taskWork->畑を管理</li>
+    <li>taskWork->衣服の仕立てを</li>
     <li>friendNamePlural->友達</li>
     <li>friendNamePlural->恋人</li>
     <li>friendNamePlural->[friendAdj]動物</li>
