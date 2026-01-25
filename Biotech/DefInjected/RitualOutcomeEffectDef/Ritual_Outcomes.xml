@@ -26,14 +26,14 @@
   <!-- EN: Still -->
   <ChildBirth.outcomeChances.0.label>死産</ChildBirth.outcomeChances.0.label>
   <!-- EN: {MOTHER_labelShort}'s baby was stillborn. -->
-  <ChildBirth.outcomeChances.0.description>{MOTHER_labelShort}の赤ん坊は死産した.</ChildBirth.outcomeChances.0.description>
+  <ChildBirth.outcomeChances.0.description>{MOTHER_labelShort}の赤ん坊は死産しました.</ChildBirth.outcomeChances.0.description>
   <!-- EN: Sick -->
   <ChildBirth.outcomeChances.1.label>病気</ChildBirth.outcomeChances.1.label>
   <!-- EN: {MOTHER_labelShort} gave birth to a baby. Unfortunately, the baby is sick. -->
-  <ChildBirth.outcomeChances.1.description>{MOTHER_labelShort}は赤ん坊を産んだ.不幸なことに,赤ん坊は病気だ.</ChildBirth.outcomeChances.1.description>
+  <ChildBirth.outcomeChances.1.description>{MOTHER_labelShort}は赤ん坊を産みました.不幸なことに,赤ん坊は病気を患っています.</ChildBirth.outcomeChances.1.description>
   <!-- EN: Healthy -->
   <ChildBirth.outcomeChances.2.label>健康</ChildBirth.outcomeChances.2.label>
   <!-- EN: {MOTHER_labelShort} gave birth to a healthy baby! -->
-  <ChildBirth.outcomeChances.2.description>{MOTHER_labelShort}は元気な赤ん坊を産んだ!</ChildBirth.outcomeChances.2.description>
+  <ChildBirth.outcomeChances.2.description>{MOTHER_labelShort}は元気な赤ん坊を産みました!</ChildBirth.outcomeChances.2.description>
   
 </LanguageData>

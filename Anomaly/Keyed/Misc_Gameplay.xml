@@ -370,11 +370,11 @@
   <LetterInterrogationUnlocked>囚人への交流モードに"尋問"が追加されました.</LetterInterrogationUnlocked>
   
   <!-- EN: Imprison someone and send a warden to interrogate them about their true identity. This can take many days. -->
-  <LetterGrayFleshMethodOne>誰かを投獄し,看守がその正体について尋問します.これには数日かかります.</LetterGrayFleshMethodOne>
+  <LetterGrayFleshMethodOne>誰かを投獄し,看守に尋問させましょう.\nただし正体が判明するまで数日かかります.</LetterGrayFleshMethodOne>
   <!-- EN: Collect more gray flesh and analyze it to determine the biosignature of the threat. Then, use the surgical inspection operation to search for that biosignature. It could take a long time to collect enough samples, and the surgery is invasive. -->
-  <LetterGrayFleshMethodTwo>灰色の肉片を集め分析し,脅威を起こしたバイオシグネチャーを特定しましょう.\n特定できれば,そのバイオシグネチャーを探すための外科調査手術を行えるようになります.ただし十分なサンプルを集めるには時間がかかり,手術は身体に負担がかかります.</LetterGrayFleshMethodTwo>
+  <LetterGrayFleshMethodTwo>灰色の肉片を集めて分析しましょう.\n脅威を起こしたバイオシグネチャーを特定できれば,そのバイオシグネチャーを探すための外科調査手術を行えるようになります.ただし十分なサンプルを集めるには時間がかかり,手術は身体に負担がかかります.</LetterGrayFleshMethodTwo>
   <!-- EN: Execute or banish whoever you suspect. -->
-  <LetterGrayFleshMethodThree>疑わしい者を処刑または追放する.</LetterGrayFleshMethodThree>
+  <LetterGrayFleshMethodThree>疑わしい者を処刑,追放しましょう.</LetterGrayFleshMethodThree>
   
   <!-- EN: Metalhorrors awakening -->
   <LetterMetalhorrorReawakeningLabel>メタルホラーの覚醒</LetterMetalhorrorReawakeningLabel>

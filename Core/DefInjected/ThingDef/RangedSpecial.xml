@@ -4,7 +4,7 @@
   <!-- EN: orbital bombardment targeter -->
   <OrbitalTargeterBombardment.label>軌道爆撃照準器</OrbitalTargeterBombardment.label>
   <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
-  <OrbitalTargeterBombardment.description>軌道爆撃システムには必要な古代の誘導装置です.この装置は目標と指し示し,その座標を衛星通信装置に送信すると,その目標エリアに物理衝撃的な爆撃を行います.この装置は非認証ユーザーからの命令も受け付けるように再プログラムされていますが,一度でも使用するとネットワークは不正使用を検知し,それを永久に切断するでしょう.</OrbitalTargeterBombardment.description>
+  <OrbitalTargeterBombardment.description>軌道爆撃システムを利用できる古代の誘導装置です.この装置は指示された目標座標を衛星ネットワークに送信し,動的衝突装置を用いた目標エリアへの爆撃を要請します.権限のないユーザーからの命令も受け付けるように再プログラムされていますが,一度でも使用するとネットワークは不正使用を検知し,この装置との繋がりを永久に切断します.</OrbitalTargeterBombardment.description>
   <!-- EN: charge -->
   <OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>チャージ</OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
@@ -15,7 +15,7 @@
   <!-- EN: orbital power beam targeter -->
   <OrbitalTargeterPowerBeam.label>軌道ビーム照準器</OrbitalTargeterPowerBeam.label>
   <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
-  <OrbitalTargeterPowerBeam.description>エネルギー収集衛星の為の誘導装置です.一度目標を捕捉すると,古代の衛星は,強力な電磁エネルギー柱を目標に向かって照射し始めます.このエネルギーは,巨大な吸収パラボラで安全に集めることができます.吸収パラボラを持っていなければ,敵に狙いを定めることもでき,その場合エネルギー柱は,そのエリアを数千度の炎で焼くでしょう.衛星が安全でない目標への照射を検知すると,衛星自身をシャットダウンさせ永久に照準器を無効化します.</OrbitalTargeterPowerBeam.description>
+  <OrbitalTargeterPowerBeam.description>エネルギー回収衛星を利用できる古代の誘導装置です.この装置は目標に照準を合わせると古代の衛星に指示を送り,指示を受けた衛星は強力な電磁エネルギーの柱を継続的に照射します.本来であればこのエネルギーは巨大な吸収パラボラで安全に回収するものですが,吸収パラボラがなくても,敵に照準を合わせることで,そのエリアをエネルギーの柱で数千度の火の海へと変えられます.危険な目標地点への照射を衛星が検知するまで,エネルギーの照射は続きます.衛星はこれを検知すると,自らをシャットダウンし,この照準器を永久に無効化します.</OrbitalTargeterPowerBeam.description>
   <!-- EN: charge -->
   <OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>チャージ</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->

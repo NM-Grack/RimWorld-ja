@@ -421,7 +421,7 @@
   <!-- EN: Follow master while doing field work -->
   <CreatureFollowFieldwork>主人のフィールドワーク時に追従する</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
-  <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>{1}との友好値 {0}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
   <EnterCooldown>危険すぎるため,{0}経過するまで再侵入できません.</EnterCooldown>
   <!-- EN: Caravan -->

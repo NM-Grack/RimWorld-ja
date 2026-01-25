@@ -260,7 +260,7 @@
   <MechGainsName>このメカの名前は{0}になりました.</MechGainsName>
 
   <!-- EN: {FATHER_nameDef} is {MOTHER_nameDef}'s {RELATION}. There's a {CHANCE} chance that the resulting baby will have genetic abnormalities due to inbreeding.\n\nAre you sure you want to continue? -->
-  <FertilizeOvumInbredChance>{FATHER_nameDef}は{MOTHER_nameDef}の{RELATION}です.そのため赤ん坊に近親交配由来の遺伝異常が発現する可能性が{CHANCE}あります.\n\n本当に続けますか?</FertilizeOvumInbredChance>
+  <FertilizeOvumInbredChance>{FATHER_nameDef}は{MOTHER_nameDef}の{RELATION}です.そのため{CHANCE}の確率で赤ん坊に近親交配由来の遺伝異常が発現します.\n\n本当に続けますか?</FertilizeOvumInbredChance>
 
   <!-- EN: {PAWN_nameDef} is pregnant. Implanting an IUD while {PAWN_pronoun} is in {PAWN_possessive} first trimester of pregnancy will terminate the pregnancy.\n\nAre you sure you want to continue? -->
   <ConfirmationPawnPregnancyTerminated>{PAWN_nameDef}は妊娠中です.{PAWN_pronoun}が {PAWN_possessive}妊娠初期にIUDを埋め込むと中絶します.\n\n本当に続けますか?</ConfirmationPawnPregnancyTerminated>

@@ -250,7 +250,7 @@
   <!-- EN: Pregnancy is not possible -->
   <PregnancyNotPossible>妊娠しない</PregnancyNotPossible>
   <!-- EN: The chance of a healthy birth at this quality level was {0_percentage}. -->
-  <BirthRitualHealthyBabyChance>この品質レベルでの健康な出産の可能性は{0_percentage}です.</BirthRitualHealthyBabyChance>
+  <BirthRitualHealthyBabyChance>この品質レベルの場合,健康に出産できる可能性は{0_percentage}でした.</BirthRitualHealthyBabyChance>
   <!-- EN: Giving birth. -->
   <GivingBirth>出産します.</GivingBirth>
 
@@ -714,7 +714,7 @@
   <!-- EN: pregnant -->
   <CannotPregnant>妊娠</CannotPregnant>
   <!-- EN: must be {0} -->
-  <CannotMustBeAge>{0}でなければならない</CannotMustBeAge>
+  <CannotMustBeAge>{0}歳になっていない</CannotMustBeAge>
   <!-- EN: already having embryo implanted -->
   <CannotImplantingOtherEmbryo>すでに胚を移植済み</CannotImplantingOtherEmbryo>
   <!-- EN: {0} ({1}) -->

@@ -81,9 +81,9 @@
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>今日は,{0}の誕生日です!生物学的には{1}は{3}歳になります.\n\n暦上では,{1}は,{2}になりました.\n\n注意:冷凍睡眠中は老化しないので,暦上の年齢は,生物学的年齢とは別になります.</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
-  <LetterBirthdayBiological>今日は,{0_nameFull}の生物学的な{1}歳の誕生日です.</LetterBirthdayBiological>
+  <LetterBirthdayBiological>今日は,{0_nameFull}の 生物学的な{1}歳の誕生日です.</LetterBirthdayBiological>
   <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
-  <BirthdayBiologicalAgeInjuries>ですが不幸にも{0_nameFull}は, 老化によって次の病気を患いました</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>ですが{0_nameFull}は, 不幸にも老化によって病気を患いました</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>発症</LetterLabelNewDisease>
@@ -404,9 +404,9 @@
 
   <!-- Faction base proximity -->
   <!-- EN: Faction base proximity -->
-  <LetterLabelFactionBaseProximity>近接した派閥拠点</LetterLabelFactionBaseProximity>
+  <LetterLabelFactionBaseProximity>近すぎる派閥拠点</LetterLabelFactionBaseProximity>
   <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
-  <LetterFactionBaseProximity>あなたは他の派閥にとても近づきすぎたので,彼らは,彼らの領土に,あなたが割り込んできたと感じています.\n\n派閥関係が悪くなります:</LetterFactionBaseProximity>
+  <LetterFactionBaseProximity>コロニーと他派閥の拠点との距離があまりにも近すぎるため,彼らは自分たちの領土が侵略されていると感じています.\n\n友好値は節の変わり目に減少します.原因となったコロニーと悪化した派閥は以下の通り:</LetterFactionBaseProximity>
 
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->

@@ -515,7 +515,7 @@
     <li>tale_noun->隕石が[PAWN_nameDef]の[Community]の傍に衝突する</li>
     <li>image->[airborne_circumstance],[AdjectiveLarge]岩石が[Color]色の炎の尾を引く</li>
     <li>image->[airborne_circumstance],明るい輝きが観測される</li>
-    <li>image->[airborne_circumstance],[AdjectiveLarge]火の玉が落ちる</li>
+    <li>image->[airborne_circumstance],[AdjectiveLarge][Color]色の火の玉が落ちる</li>
     <li>airborne_circumstance->赤々と光る物が空を横切り</li>
     <li>airborne_circumstance->灰の雲の中を地面に向けて落下しつつ</li>
     <li>airborne_circumstance->目減りした岩石やデブリが飛び散るなか</li>

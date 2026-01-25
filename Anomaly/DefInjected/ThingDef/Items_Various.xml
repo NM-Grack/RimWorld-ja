@@ -77,9 +77,9 @@
   <!-- EN: Analysis progress -->
   <GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetterLabel>分析の進捗</GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetterLabel>
   <!-- EN: {PAWN_nameDef} has finished analyzing the gray flesh sample. The sample carried the biosignature {BIOSIGNATURE}.\n\n{PAWN_nameDef} made progress in learning to identify this biosignature in living subjects, but needs more samples to complete the work. Until then, your surgical inspections will not detect {BIOSIGNATURE}.\n\nCollect and analyze more gray flesh samples. -->
-  <GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetters.0>{PAWN_nameDef}は灰色の肉体サンプルの分析を完了しました.サンプルにはバイオシグネチャー{BIOSIGNATURE}が含まれていました.\n\n{PAWN_nameDef}は生きている被験者の中のバイオシグネチャー特定に関する研究を前進させましたが,研究の完了にはさらにサンプルが必要です.それまでは,外科的調査で{BIOSIGNATURE}を検知できません.\n\n灰色の肉体サンプルをさらに集めて分析しましょう.</GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetters.0>
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetters.0>{PAWN_nameDef}は灰色の肉体サンプルの分析を完了しました.サンプルには{BIOSIGNATURE}という名のバイオシグネチャーがありました.\n\n{PAWN_nameDef}の分析によって,生きた対象からこのバイオシグネチャーを検知する手がかりが増えましたが,完全に検知できるようになるためには,もっと多くのサンプルが必要です.現段階ではまだ,外科的調査では{BIOSIGNATURE}を検知できません.\n\n灰色の肉体サンプルをさらに集めて分析しましょう.</GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetters.0>
   <!-- EN: {PAWN_nameDef} has completed {PAWN_possessive} analysis of the gray flesh sample. It carries the previously discovered biosignature {BIOSIGNATURE}.\n\nYour colonists now understand this biosignature well enough to detect it with the surgical inspection operation. -->
-  <GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef}は灰色の肉体サンプルの分析を完了しました.このサンプルには,以前発見したバイオシグネチャー{BIOSIGNATURE}が含まれていました.\n\n入植者たちは,このバイオシグネチャーを外科的調査手術で検知できるだけの知識を得ました.</GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef}は灰色の肉体サンプルの分析を完了しました.このサンプルには,以前発見した{BIOSIGNATURE}という名のバイオシグネチャーがありました.\n\n入植者たちは,このバイオシグネチャーを外科的調査手術で検知できるだけの知識を得ました.</GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
   <!-- EN: Analysis complete -->
   <GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>分析完了</GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>
   
