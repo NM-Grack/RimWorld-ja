@@ -321,7 +321,7 @@
     <li>townname_combo->[Weapon][TerrainFeature]</li>
     <li>townname_combo->[ColorBadass][TerrainFeature]</li>
     <li>geography(p=2)->[TerrainFeature]</li>
-    <li>geography-></li>
+    <li>geography->[Community]</li>
     <li>townname_wordgen(p=2)->[SylE][SylE]</li>
     <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
     <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
