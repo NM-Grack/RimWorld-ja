@@ -1370,10 +1370,10 @@
   <OfficerCadet25.titleShort>士官候補生</OfficerCadet25.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born and raised in an offworld soldier growth facility. From a very young age, [PAWN_pronoun] was taught close-quarters combat tactics, aggression, and how to survive on distant planets.\n\nOne of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deployment shock troop corps. -->
-  <OffworldRecruit91.description>[PAWN_nameDef]は,異世界の兵士育成施設で生まれ育ちました.非常に小さいうちから,[PAWN_pronoun]は,近接戦闘術,侵略,遠い惑星でのサバイバル術などを教わりました.\n\n[PAWN_pronoun]は傑作の１つであり,[PAWN_nameDef]はついに軌道降下猟兵に選ばれました.</OffworldRecruit91.description>
-  <OffworldRecruit91.baseDesc>[PAWN_nameDef]は,異世界の兵士育成施設で生まれ育ちました.非常に小さいうちから,[PAWN_pronoun]は,近接戦闘術,侵略,遠い惑星でのサバイバル術などを教わりました.\n\n[PAWN_pronoun]は傑作の１つであり,[PAWN_nameDef]はついに軌道降下猟兵に選ばれました.</OffworldRecruit91.baseDesc>
+  <OffworldRecruit91.description>[PAWN_nameDef]は,惑星外の兵士育成施設で生まれ育ちました.非常に小さいうちから,[PAWN_pronoun]は,近接戦闘術,侵略,遠い惑星でのサバイバル術などを教わりました.\n\n傑作の1つである[PAWN_nameDef]は,ついに軌道上に展開される突撃部隊に選ばれました.</OffworldRecruit91.description>
+  <OffworldRecruit91.baseDesc>[PAWN_nameDef]は,惑星外の兵士育成施設で生まれ育ちました.非常に小さいうちから,[PAWN_pronoun]は,近接戦闘術,侵略,遠い惑星でのサバイバル術などを教わりました.\n\n傑作の1つである[PAWN_nameDef]は,ついに軌道上に展開される突撃部隊に選ばれました.</OffworldRecruit91.baseDesc>
   <!-- EN: offworld recruit -->
-  <OffworldRecruit91.title>異世界の新兵</OffworldRecruit91.title>
+  <OffworldRecruit91.title>惑星外の新兵</OffworldRecruit91.title>
   <!-- EN: recruit -->
   <OffworldRecruit91.titleShort>新兵</OffworldRecruit91.titleShort>
   
