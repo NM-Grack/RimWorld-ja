@@ -1,10 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: ancient heavy bridge -->
+  <AncientHeavyBridge.label>古代の強化橋</AncientHeavyBridge.label>
+  <!-- EN: An ancient bridge which supports heavy structures on top. You can build a whole colony on water with this. -->
+  <AncientHeavyBridge.description>重い構造物を支える古代の橋です.これを使えば水上にコロニー全体を建築することができます.</AncientHeavyBridge.description>
+  
   <!-- EN: heavy bridge -->
   <HeavyBridge.label>強化橋</HeavyBridge.label>
   <!-- EN: A stronger version of the basic bridge which supports heavy structures on top. You can build a whole colony on water with this. -->
-  <HeavyBridge.description>基本的な橋の強化版で,上に重い構造物を支えることができます.これを使えば水上にコロニー全体を建設することができます.</HeavyBridge.description>
+  <HeavyBridge.description>基本的な橋の強化版で,重い構造物を支えることができます.これを使えば水上にコロニー全体を建設することができます.</HeavyBridge.description>
   
   <!-- EN: gravship substructure -->
   <Substructure.label>グラヴシップの土台</Substructure.label>

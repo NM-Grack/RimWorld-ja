@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: ancient bridge -->
+  <AncientBridge.label>古代の橋</AncientBridge.label>
+  <!-- EN: An ancient bridge made of wood. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
+  <AncientBridge.description>古代の木製の橋です.軽い物であればこの橋の上に建築できます.ただし,橋は壊れやすいため注意してください.もし橋が崩壊すれば,その上に建てられていた物も崩落するでしょう.</AncientBridge.description>
+  
   <!-- EN: ancient concrete -->
   <AncientConcrete.label>古代のコンクリート床</AncientConcrete.label>
   <!-- EN: Ancient concrete flooring. -->
