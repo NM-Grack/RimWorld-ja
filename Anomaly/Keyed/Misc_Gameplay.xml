@@ -126,7 +126,7 @@
   <!-- EN: requires {0} -->
   <HoldingPlatformRequiresStrength>{0}が必要</HoldingPlatformRequiresStrength>
   <!-- EN: No holding platforms available. -->
-  <NoHoldingPlatformsAvailable>利用可能な収容プラットフォームがありません.</NoHoldingPlatformsAvailable>
+  <NoHoldingPlatformsAvailable>利用可能な収容プラットフォームがない</NoHoldingPlatformsAvailable>
   
   
   <!-- Obelisks -->
